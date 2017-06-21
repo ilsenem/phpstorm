@@ -51,6 +51,12 @@
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="ctrl alt 2" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="ctrl alt 1" />
+  </action>
   <action id="Uml.ShowDiff" />
   <action id="openAssertEqualsDiff" />
 </keymap>
