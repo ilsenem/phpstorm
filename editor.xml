@@ -1,5 +1,6 @@
 <application>
   <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="SHOW_BREADCRUMBS" value="false" />
@@ -8,6 +9,7 @@
     <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
     <option name="IS_ANIMATED_SCROLLING" value="false" />
+    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
     <option name="IS_DND_ENABLED" value="false" />
     <option name="REFRAIN_FROM_SCROLLING" value="true" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
