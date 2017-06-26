@@ -1,4 +1,9 @@
 <application>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <PhpCSConfiguration standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" tool_path="phpcs" />
+    </phpcs_settings>
+  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="docker://cytopia/php-fpm-7.1:0.10//usr/bin/php" id="241c4b52-964c-4c6e-9931-e01916bf366e" name="Docker PHP 7.1" debugger_id="php.debugger.XDebug">

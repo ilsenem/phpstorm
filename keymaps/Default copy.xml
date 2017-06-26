@@ -44,6 +44,7 @@
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="IntroduceField" />
   <action id="QuickChangeScheme" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
@@ -64,6 +65,9 @@
   </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="ctrl alt 1" />
+  </action>
+  <action id="Tool_External Tools_PHP CS Fixer">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
   <action id="Uml.ShowDiff" />
   <action id="Upsource.ShowNewsFeed">
