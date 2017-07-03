@@ -37,6 +37,9 @@
   <action id="EditorPasteFromX11" />
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
+  <action id="ExpandDocComments">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
@@ -78,6 +81,8 @@
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
   <action id="Uml.ShowDiff" />
+  <action id="Upsource.CreateOrShowDiscussion" />
+  <action id="Upsource.CreateOrShowDiscussionInDiff" />
   <action id="Upsource.ShowNewsFeed">
     <keyboard-shortcut first-keystroke="alt 4" />
   </action>
