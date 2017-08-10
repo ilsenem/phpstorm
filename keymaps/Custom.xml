@@ -70,6 +70,9 @@
   </action>
   <action id="HippieCompletion" />
   <action id="IntroduceField" />
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
+  </action>
   <action id="NextProjectWindow" />
   <action id="PreviousProjectWindow" />
   <action id="QuickChangeScheme" />
