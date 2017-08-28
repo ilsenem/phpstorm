@@ -1,0 +1,10 @@
+<application>
+  <component name="PowerModeII">
+    <option name="enabled" value="false" />
+    <option name="flamesEnabled" value="false" />
+    <option name="heatup" value="0" />
+    <option name="isBamEnabled" value="false" />
+    <option name="keyStrokesPerMinute" value="160" />
+    <option name="soundsFolder" value="$USER_HOME$" />
+  </component>
+</application>
