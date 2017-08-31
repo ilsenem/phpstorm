@@ -4,7 +4,6 @@
       <mapping pattern=".env" type="Ini" />
       <mapping pattern=".env-example" type="Ini" />
       <mapping pattern="gateway" type="PLAIN_TEXT" />
-      <mapping pattern="makefile" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
