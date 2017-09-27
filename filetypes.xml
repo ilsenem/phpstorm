@@ -4,6 +4,7 @@
       <mapping pattern=".env" type="Ini" />
       <mapping pattern=".env-example" type="Ini" />
       <mapping pattern="gateway" type="PLAIN_TEXT" />
+      <mapping pattern="a193fbb12b107a40c12cfaca51244e88" type="PLAIN_TEXT" />
       <mapping ext="accounts" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
