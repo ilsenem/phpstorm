@@ -1,12 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping pattern=".env" type=".env file" />
-      <mapping pattern=".editorconfig" type="Ini" />
-      <mapping pattern=".env-example" type="Ini" />
       <mapping pattern=".env" type="Ini" />
+      <mapping pattern=".env-example" type="Ini" />
+      <mapping pattern=".editorconfig" type="Ini" />
       <mapping pattern="gateway" type="PLAIN_TEXT" />
       <mapping pattern="a193fbb12b107a40c12cfaca51244e88" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping ext="accounts" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
